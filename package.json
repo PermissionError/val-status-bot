@@ -1,0 +1,14 @@
+{
+  "name": "val-status-bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.24.0",
+    "keyv": "^4.0.5",
+    "keyv-file": "^0.2.0",
+    "node-cron": "^3.0.0",
+    "twitter-api-v2": "^1.9.1"
+  },
+  "type": "module"
+}

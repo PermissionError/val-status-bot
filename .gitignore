@@ -1,0 +1,4 @@
+secrets.js
+state.json
+# Project exclude paths
+/node_modules/
